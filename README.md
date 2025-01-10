@@ -1,4 +1,5 @@
-# BI-360-
+# BI-360-project
+
 # Business 360 Project
 
 ## Overview
