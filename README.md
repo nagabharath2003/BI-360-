@@ -1,6 +1,6 @@
-# BI-360-project
 
-# Business 360 Project
+
+# Business insights 360 Project
 
 ## Overview
 
