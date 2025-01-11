@@ -106,3 +106,5 @@ Automate data updates for real-time dashboard refreshes.
 Expand the scope to include supply chain and inventory analytics.
 
 Feel free to explore the repository and provide feedback. Contributions are welcome to enhance the project further!
+https://app.powerbi.com/reportEmbed?reportId=54111d21-1e4f-425b-8d98-58108546d995&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4
+
